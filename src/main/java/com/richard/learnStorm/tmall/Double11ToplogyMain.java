@@ -19,8 +19,8 @@ import backtype.storm.topology.TopologyBuilder;
  * 数据存储：使用Sava2RedisBolt对数据进行存储
  * 数据展示：编写java app客户端，对数据进行展示，展示方式为打印在控制台。
  *
- * Author:  niklaus
- * Domain:   www.niklaus.com
+ * Author:  richard
+ * Domain:   www.richard.com
  * Data:     2016/1/6.
  */
 public class Double11ToplogyMain {
