@@ -11,8 +11,8 @@ import java.util.UUID;
 
 /**
  * Describe: 简单的支付信息，实际业务更复杂，比如父子订单，一个订单多个商品，一个支付订单多个订单等情况。
- * Author:  niklaus
- * Domain:   www.niklaus.com
+ * Author:  richard
+ * Domain:   www.richard.com
  * Data:     2016/1/6.
  */
 public class PaymentInfo implements Serializable {
