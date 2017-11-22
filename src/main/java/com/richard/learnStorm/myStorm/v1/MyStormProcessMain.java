@@ -92,5 +92,6 @@ public class MyStormProcessMain {
 
     public void setWordQueue(BlockingQueue wordQueue) {
         this.wordQueue = wordQueue;
+   
     }
 }
