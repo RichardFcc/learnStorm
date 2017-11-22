@@ -4,8 +4,8 @@ import java.util.concurrent.BlockingQueue;
 
 /**
  * Describe:
- * Author:  niklaus
- * Domain:   www.niklaus.com
+ * Author:  richard
+ * Domain:   www.richard.com
  * Data:     2016/1/6.
  */
 public interface MyBolt extends Runnable {
