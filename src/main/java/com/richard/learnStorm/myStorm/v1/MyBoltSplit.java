@@ -23,5 +23,6 @@ public class MyBoltSplit extends Thread {
 
     public MyBoltSplit(MyStormProcessMain stormProcess) {
         this.stormProcess = stormProcess;
+    
     }
 }
