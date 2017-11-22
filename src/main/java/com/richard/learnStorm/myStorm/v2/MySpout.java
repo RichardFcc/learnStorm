@@ -11,5 +11,6 @@ import java.util.concurrent.BlockingQueue;
 public interface MySpout extends Runnable {
 
     public void open(BlockingQueue collector);
+   
     public void nextTuple();
 }
