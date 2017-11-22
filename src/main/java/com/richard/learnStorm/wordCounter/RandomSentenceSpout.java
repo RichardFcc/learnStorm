@@ -13,8 +13,8 @@ import java.util.Random;
 /**
  *	功能说明
  *	伪造数据源，在storm框架调用nextTuple()方法时，发送英文句子出去。
- ** Author:  niklaus
- * Domain:   www.niklaus.com
+ ** Author: richard
+ * Domain:   www.richard.com
  * Data:     2016/1/6.
  */
 public class RandomSentenceSpout extends BaseRichSpout {
