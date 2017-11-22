@@ -11,5 +11,6 @@ import java.util.concurrent.BlockingQueue;
 public interface MyBolt extends Runnable {
 
     public void prepare(BlockingQueue sentenceQueue, BlockingQueue collector);
+    
     public void execute(String message, BlockingQueue collector);
 }
