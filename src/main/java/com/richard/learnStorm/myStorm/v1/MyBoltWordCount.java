@@ -24,5 +24,5 @@ public class MyBoltWordCount extends Thread {
 
     public MyBoltWordCount(MyStormProcessMain stormProcess) {
         this.stormProcess = stormProcess;
-    }
+   }
 }
