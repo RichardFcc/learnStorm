@@ -10,8 +10,8 @@ import java.util.concurrent.Executors;
 
 /**
  * Describe:
- * Author:  niklaus
- * Domain:   www.niklaus.com
+ * Author:  richard
+ * Domain:   www.richard.com
  */
 public class MyStormProcessMain {
     private Random random = new Random();
