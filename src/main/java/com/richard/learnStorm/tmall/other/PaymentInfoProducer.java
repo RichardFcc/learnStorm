@@ -8,8 +8,8 @@ import java.util.Properties;
 
 /**
  * Describe: 随机生产订单消息，此服务单独部署
- * Author:  niklaus
- * Domain:   www.niklaus.com
+ * Author:  richard
+ * Domain:   www.richard.com
  * Data:     2016/1/6.
  */
 public class PaymentInfoProducer {
