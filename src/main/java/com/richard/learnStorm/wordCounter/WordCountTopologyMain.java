@@ -14,8 +14,8 @@ import backtype.storm.tuple.Fields;
  *      SplitSentenceBolt:负责将单行文本记录（句子）切分成单词
  *      WordCountBolt:负责对单词的频率进行累加
  *
- * Author:  niklaus
- * Domain:   www.niklaus.com
+ * Author:  richard
+ * Domain:   www.richard.com
  * Data:     2016/1/6.
  */
 public class WordCountTopologyMain {
