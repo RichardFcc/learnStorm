@@ -7,8 +7,8 @@ import java.util.concurrent.BlockingQueue;
 
 /**
  * Describe:
- * Author:  niklaus
- * Domain:   www.niklaus.com
+ * Author:  richard
+ * Domain:   www.richard.com
  */
 public class MySplitBolt implements MyBolt {
 
